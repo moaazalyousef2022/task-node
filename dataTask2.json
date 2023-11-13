@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "fname": "mo3az",
+    "lname": "alyousef",
+    "age": "21",
+    "city": "aleppo"
+  },
+  {
+    "id": "2",
+    "fname": "omar",
+    "lname": "alyousef",
+    "age": "21",
+    "city": "aleppo"
+  },
+  {
+    "id": "3",
+    "fname": "amen",
+    "lname": "alyousef",
+    "age": "21",
+    "city": "aleppo"
+  },
+  {
+    "id": "5",
+    "fname": "ahmad",
+    "lname": "alyousef",
+    "age": "21",
+    "city": "egypt"
+  },
+  {
+    "id": "7",
+    "fname": "mohammed",
+    "lname": "alyousef",
+    "age": "21",
+    "city": "egypt"
+  }
+]
